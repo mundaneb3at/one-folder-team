@@ -17,11 +17,11 @@ A word on privacy before you start: never paste passwords, bank numbers, or clie
   - Drafting replies to client messages and booking questions.
   - Writing social posts and short ads.
   - Explaining a receipt or tidying a price list.
-- **Free limits:** Third-party sources report about 10 messages per 5 hours on the main model, then a lighter model. OpenAI's own page blocked us, so: check current plan.
-- **Google Drive:** Sources say the Drive connector is for paid plans. Not confirmed from OpenAI. Check current plan. Free workaround: download a file from Drive and upload it into the chat.
-- **Voice/phone app:** Yes, iPhone and Android apps with voice. Check current plan for free voice limits.
+- **Free limits:** OpenAI's pricing page (checked 2026-11-01) lists the Free plan as "Unlimited text chats", with the note "subject to abuse guardrails". Uploads, image creation, voice chats and deep research are each listed as "Limited", with no number.
+- **Google Drive:** OpenAI's connectors page says "Select plugins are available in all plans, including ChatGPT Free" and "Some plugins require a paid plan". It does not say which group Google Drive is in. Check in Settings. Free workaround: download a file from Drive and upload it into the chat.
+- **Voice/phone app:** Yes, iPhone and Android apps. The Free plan lists "Limited voice chats" (no number).
 - **Privacy:** Check current plan. Look in Settings, Data controls, for the "improve the model for everyone" switch.
-- **Sources:** https://help.openai.com/en/articles/9275245 (could not open, 403), https://aiplanfinder.com/chatgpt-usage-limits (third party)
+- **Sources (checked 2026-11-01):** https://chatgpt.com/pricing, https://chatgpt.com/features/connectors/ (OpenAI's help center pages returned 403 that day)
 
 ## 2. Claude (free)
 
@@ -56,11 +56,11 @@ A word on privacy before you start: never paste passwords, bank numbers, or clie
   - Drafting messages and job ads.
   - Simple "how do I do this in Excel" help.
   - Summarizing a web page about a supplier.
-- **Free limits:** Not published in what we found. Check current plan.
+- **Free limits:** Microsoft's support page (checked 2026-11-01): you can "chat with Copilot, create images, upload files and more for free, subject to available capacity and limits. When you hit a limit, you can choose to upgrade to a paid option or come back later." No number is published.
 - **Google Drive:** Microsoft's support page lists connectors for OneDrive, Outlook.com, Google Drive, and Gmail/Calendar/Contacts, and says you must connect your Google account yourself. Whether free accounts have it everywhere: check current plan.
 - **Voice/phone app:** Yes, with voice. Check current plan for limits.
 - **Privacy:** Check current plan. Second-hand sources say uploaded files are not used for training and chat training can be turned off. Verify in Microsoft's privacy settings.
-- **Sources:** https://support.microsoft.com/en-us/microsoft-copilot/connecting-microsoft-copilot-to-other-services
+- **Sources (checked 2026-11-01):** https://support.microsoft.com/en-us/microsoft-365-copilot/learning/changes-microsoft-copilot-app, https://support.microsoft.com/en-us/microsoft-copilot/connecting-microsoft-copilot-to-other-services (that page lists Microsoft 365 Personal, Family, Premium and Pro, so free accounts may not get Google Drive)
 
 ## 5. Meta AI (powered by Muse Spark)
 
@@ -69,11 +69,11 @@ A word on privacy before you start: never paste passwords, bank numbers, or clie
   - Quick caption ideas for Instagram or Facebook.
   - Brainstorming names, offers, and slogans.
   - Voice chat while your hands are busy.
-- **Free limits:** Consumer use is reported as free. Exact limits: check current plan. Rollout was reported as US-first.
+- **Free limits:** Meta's help page "Manage AI usage for your Meta One plan" (read 2026-11-01) says that if you reach your free daily usage limit you can upgrade to a paid Meta One plan or wait for the limit to refresh. No number is given. Everyday chat is described as free.
 - **Google Drive:** No Drive connector found. Check current plan. Use copy and paste.
 - **Voice/phone app:** Yes. Voice conversation is reported in the Meta AI app.
-- **Privacy:** Not confirmed from Meta's own page. Check current plan. Remember it is tied to your Meta accounts.
-- **Sources:** https://9to5mac.com/2026/05/12/meta-ai-app-enhanced-with-new-features-using-muse-spark-heres-whats-new/ (news, not Meta)
+- **Privacy:** Meta's AI pages say it uses your chats with its AIs to improve AI at Meta. No opt-out was found. It is tied to your Meta accounts.
+- **Sources (checked 2026-11-01):** https://www.meta.com/help/artificial-intelligence/1831790234178989/ (Meta), https://9to5mac.com/2026/05/12/meta-ai-app-enhanced-with-new-features-using-muse-spark-heres-whats-new/ (news)
 
 ## 6. Grok (xAI)
 
@@ -82,11 +82,11 @@ A word on privacy before you start: never paste passwords, bank numbers, or clie
   - Seeing what people are saying about a trend.
   - Short, casual social posts.
   - General questions.
-- **Free limits:** Not published by xAI in anything we could confirm. Check current plan.
+- **Free limits:** xAI publishes no free number that we could open on 2026-11-01. grok.com loads but shows no limit text; xAI's plan, help and privacy pages refused us (HTTP 403). Guides say free use has a usage allowance that refreshes. Check in the app.
 - **Google Drive:** Not confirmed. Check current plan.
 - **Voice/phone app:** Phone app exists. Voice: check current plan.
 - **Privacy:** Third-party sources say consumer chats may be used to improve models and there is a data-controls switch. Not confirmed from xAI. Check current plan.
-- **Sources:** none from xAI loaded today
+- **Sources (checked 2026-11-01):** https://grok.com/ (no limit text); x.ai/grok, x.ai/plans, help.x.com Grok pages: 403
 
 ## 7. DeepSeek
 
@@ -95,11 +95,11 @@ A word on privacy before you start: never paste passwords, bank numbers, or clie
   - Math and step-by-step reasoning (price and margin checks).
   - Drafting plain text.
   - Explaining a spreadsheet formula.
-- **Free limits:** Check current plan.
+- **Free limits:** DeepSeek's own Terms and Privacy pages (checked 2026-11-01) state no message cap. Users report "server busy" messages at busy times instead of a fixed limit.
 - **Google Drive:** None found. Check current plan.
 - **Voice/phone app:** App exists. Voice: check current plan.
-- **Privacy:** Reports on its policy say chats, uploads, and history may be used for training and are stored on servers in mainland China. We could not open the current policy page today (404). Check current plan. Not for client details.
-- **Sources:** https://www.privado.ai/post/deepseek-app-a-closer-look-at-its-privacy-posture (third party)
+- **Privacy:** DeepSeek's privacy policy (updated Feb 10, 2026) says it will "directly collect, process and store your Personal Data in People's Republic of China", and uses data "to train and improve our technology". Not for client details.
+- **Sources (checked 2026-11-01):** https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html, https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html
 
 ## 8. Mistral Le Chat / Vibe
 
@@ -142,11 +142,11 @@ A word on privacy before you start: never paste passwords, bank numbers, or clie
   - Checking a supplier, a rule, or a local fact with links.
   - Comparing products before you buy.
   - Finding what a competitor charges.
-- **Free limits:** Plan guides say the free tier has a daily allowance of searches. Exact numbers: check current plan.
-- **Google Drive:** Third-party sources say the Drive connector is paid-only. Check current plan.
+- **Free limits:** Perplexity's plan page (checked 2026-11-01) lists for Free: "Practically unlimited basic searches", "Very limited amount of Pro Searches" and "Basic file uploads (limited)". A plan table was read as 3 Pro Searches a day; not rechecked.
+- **Google Drive:** Paid only. Perplexity's page says the Google Drive Connector "is available for Perplexity Pro, Perplexity Max, Enterprise Pro, and Enterprise Max users."
 - **Voice/phone app:** Yes, phone apps. Voice: check current plan.
-- **Privacy:** Check current plan. There is a setting to stop your data being used to improve the AI; look in account settings.
-- **Sources:** https://www.vice.com/en/article/perplexity-ai-search-google-drive (third party)
+- **Privacy:** Perplexity says AI data retention is on by default for Free. Turn it off in Account settings, Preferences, AI data retention. It only applies to data after you switch it off.
+- **Sources (checked 2026-11-01):** https://www.perplexity.ai/help-center/en/articles/11187416-which-perplexity-subscription-plan-is-right-for-you, https://www.perplexity.ai/help-center/en/articles/12870620-connecting-perplexity-with-google-drive, https://www.perplexity.ai/help-center/en/articles/11564572-data-collection-at-perplexity
 
 ## 12. NotebookLM (now called Gemini Notebook)
 
@@ -180,4 +180,4 @@ A word on privacy before you start: never paste passwords, bank numbers, or clie
 
 ## How they share work through one Drive folder
 
-Make one folder in Google Drive, for example "AI Shared". Every assistant reads and writes plain text files there: simple .md files or Google Docs. Give each assistant its own file, named BACKLOG-claude.md, BACKLOG-gemini.md, and so on. The file holds that tool's to-do list, what it finished, and any questions for you. You read the lists and decide. Assistants without a Drive connector (see blocks above) do not touch the folder: you paste their output into their BACKLOG file yourself. Keep client private details out of the folder.
+This kit uses one Google Drive folder called `WORK-HQ`. Each app gets its own `out` folder inside it (`claude/out/`, `gemini/out/` and so on) and only writes new plain files there. Shared files like `TASKS.md` belong to you: the apps read them and suggest, you decide. Apps without a Drive connector (see blocks above) do not touch the folder: you paste their answer into their `out` folder yourself. The full layout is in [DRIVE-LAYOUT.md](DRIVE-LAYOUT.md). Keep client private details out of the folder.

@@ -1,6 +1,7 @@
 # Explore: a mini common space
 
-No orders here. Just things you could try when you are curious. Each one is small.
+No orders here. These are small things you could try when you are curious, to get a feel for what the helpers can do.
+Each one takes a few minutes. Pick one that sounds fun, see how it feels, and decide for yourself if it is worth keeping.
 
 ## Try one bot for a week
 

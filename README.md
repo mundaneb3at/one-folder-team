@@ -1,19 +1,49 @@
-# Drive Starter Kit: AI helpers for people who work on their own
+# One Folder Team
 
-A small, free kit for any independent person or small business: a trade, a shop, a studio, a freelancer.
-It shows how to let several AI chat apps work as a little team, using **one Google Drive folder** as the shared office.
+**Watch this 60-second clip - this is how it works:** [media/intro-60s.mp4](media/intro-60s.mp4)
+Rather listen? [media/intro-60s.mp3](media/intro-60s.mp3) (1 minute) or [media/setup-walkthrough.mp3](media/setup-walkthrough.mp3) (how to set up, about 3 minutes).
 
-Want to see it in a real-looking day? Read [USE-CASE-salon.md](USE-CASE-salon.md): one worked example, a one-person hair salon.
+Hi. If you run your own show (a salon, a shop, a trade, a studio, a little business from home),
+you already do every job yourself. Free AI apps can take some of that off your plate.
+This kit shows you one simple way to let a few of them help you, side by side.
 
-The bots never talk to each other directly. They read and write plain files in the same folder.
-You stay the boss: you read what they wrote, keep what is good, and say "go" for the next step.
+## The idea in one breath
 
-This is a **mini version to explore**, not a set of rules. Take what helps. Skip the rest.
+You make **one folder** in your Google Drive. Each AI app you like gets its own corner in that folder.
+They leave notes, drafts and to-do lists there as plain files. You read them, keep what is good, and say "go".
+
+**Why one shared folder?** Each app forgets what the others did. A folder does not.
+When every helper reads and writes in the same place, one can pick up where another stopped,
+one can check another's work, and you can see everything in one spot, on your phone or computer.
+Nothing is locked inside one company's app, and you can delete or move any file yourself.
+
+## Pick what you like
+
+Nothing here is a rule. This is a mini version to look around in.
+Try one app, try one idea, skip the rest. If something feels like a chore, drop it. That is a fine result.
+
+- Curious what it looks like in a real day? [USE-CASE-salon.md](USE-CASE-salon.md) follows a one-person hair salon.
+- Want to see which free apps exist? [FREE-MODELS.md](FREE-MODELS.md).
+- Want small things to try? [EXPLORE.md](EXPLORE.md).
+
+## What the helpers can do for you
+
+| App | What it is nice for | You might try |
+|---|---|---|
+| **Claude** | careful writing, reading long files, works inside Google Drive | a weekly money summary, kinder client messages |
+| **ChatGPT** | all-rounder, voice chat on your phone | talk through your week out loud, quick drafts |
+| **Gemini** | Google's own app, voice chat, images | social post ideas, planning your calendar |
+| **Grok** | what people are saying online right now | trends, reviews of a product you want to sell |
+| **Manus** | longer "go do this" jobs that run on their own | research on prices nearby, a one-page report |
+| **Muse** (Meta AI) | quick ideas, captions, voice while your hands are busy | Instagram captions, a second opinion |
+| **Vibe** (by Mistral) | messages in other languages, questions about a document | a policy page, a reply in a client's language |
+
+Plans and features change often. Start free. Check each app's current plan before you pay for anything.
 
 ## The one rule: talk to me short
 
-Every bot in this kit must talk to you short and plain. Paste this block into each app
-(in its custom instructions, project instructions, or the first message of a chat):
+Every helper here should talk to you short and plain. Paste this block into each app
+(its custom instructions, project instructions, or the first message of a chat):
 
 ```
 TALK-SHORT RULE
@@ -25,58 +55,39 @@ TALK-SHORT RULE
 - Never sign me up, pay, send, or delete anything without asking first.
 ```
 
-## 10-minute start
+## If you want to start today (about 10 minutes)
 
-1. Make a Google Drive folder called `WORK-HQ`. Copy the folders from [DRIVE-LAYOUT.md](DRIVE-LAYOUT.md).
+1. Make a Google Drive folder called `WORK-HQ`. The layout is in [DRIVE-LAYOUT.md](DRIVE-LAYOUT.md).
 2. Copy the files from [templates/](templates/) into it.
-3. Pick **one** app to start (Claude, ChatGPT, or Gemini is easiest). Follow its part of [SIGNUP.md](SIGNUP.md).
-4. Paste the talk-short rule, then paste that app's prompt from [prompts/](prompts/).
-5. Run [INTERVIEW.md](INTERVIEW.md). Talk as long as you like. The bot turns it into a task list.
+3. Pick **one** app (Claude, ChatGPT or Gemini are the easiest). Its part of [SIGNUP.md](SIGNUP.md) shows how to connect it to the folder, and why.
+4. Paste the talk-short rule, then that app's prompt from [prompts/](prompts/).
+5. Let it interview you with [INTERVIEW.md](INTERVIEW.md). Talk as long as you like. It turns your answers into a short task list.
 
 Add a second app only after the first one feels useful. One good helper beats seven noisy ones.
 
-## Which app is good for what
-
-| App | Good for | Try it for |
-|---|---|---|
-| **Claude** | careful writing, reading long files, organizing | the weekly money summary, polishing client messages |
-| **ChatGPT** | all-rounder, voice chat on your phone | the interview (talk out loud), quick drafts |
-| **Gemini** | lives inside Google (Drive, Gmail, Calendar) | finding files, reading your Drive, calendar ideas |
-| **Grok** | fast web lookups, what people say online | trends, local competitor prices, product reviews |
-| **Manus** | longer "go do this" jobs that run on their own | a weekly report, research that takes many steps |
-| **Muse** | a second opinion, idea lists | promo ideas, checking another bot's work |
-| **Vibe** | explainers with sources, step-by-step guides | "how do I...?" answers you can trust and check |
-
-Features and prices change often. **Check each app's current plan** before you pay for anything.
-Start with the free tier.
-
-## Which free tools exist and what each is good for
-
-See [FREE-MODELS.md](FREE-MODELS.md): every free or free-tier AI app we know of (the seven above plus others like Meta AI, Copilot, DeepSeek),
-what each is good for, its limits, and where the facts came from.
-
-## What is in this kit
+## What is in the kit
 
 | File | What it is |
 |---|---|
-| [FREE-MODELS.md](FREE-MODELS.md) | which free AI apps exist, what each is good for, limits |
-| [SIGNUP.md](SIGNUP.md) | how to sign up for each app and connect it to your Drive folder |
+| [SIGNUP.md](SIGNUP.md) | signing up for each app, connecting it to your folder, and why |
+| [FREE-MODELS.md](FREE-MODELS.md) | the free AI apps, what each is good for, their limits |
 | [DRIVE-LAYOUT.md](DRIVE-LAYOUT.md) | the folder tree and what goes where |
-| [PLAYBOOK.md](PLAYBOOK.md) | daily, weekly, and monthly routines on one page |
-| [LOOPS.md](LOOPS.md) | how a bot can work through a to-do file on its own, safely |
-| [INTERVIEW.md](INTERVIEW.md) | a prompt that has a bot interview you, then makes your task list |
-| [EXPLORE.md](EXPLORE.md) | ideas to try, no orders |
-| [USE-CASE-salon.md](USE-CASE-salon.md) | worked example: a one-person hair salon |
+| [PLAYBOOK.md](PLAYBOOK.md) | daily, weekly and monthly routines on one page |
+| [LOOPS.md](LOOPS.md) | how a helper can work through its to-do file on its own, safely |
+| [INTERVIEW.md](INTERVIEW.md) | a helper interviews you, then makes your task list |
+| [EXPLORE.md](EXPLORE.md) | small ideas to try, no orders |
+| [USE-CASE-salon.md](USE-CASE-salon.md) | one worked example: a one-person hair salon |
 | [prompts/](prompts/) | one short starter prompt per app |
-| [templates/](templates/) | task board, bookkeeping sheet, client notes, loop backlog |
+| [templates/](templates/) | task board, bookkeeping sheet, client notes, loop to-do file |
+| [media/](media/) | the 60-second clip, the audio, and the script |
 
 ## Safety in plain words
 
-- Connect each bot to the `WORK-HQ` folder only, never your whole Drive or whole Gmail, if the app lets you choose.
-- Do not put card numbers, passwords, or bank logins in any file.
-- Client notes: keep only what you need to do a good job (first name, what they like, allergies). Ask clients before you store anything personal.
-- Bots make mistakes, especially with numbers. You check the money files yourself.
-- This kit is not tax, legal, or money advice. Ask your accountant about taxes.
+- Let each app see the `WORK-HQ` folder only, not your whole Drive or Gmail, when the app lets you choose.
+- No card numbers, passwords or bank logins in any file.
+- Client notes: only what you need to do a good job (first name, what they like, allergies). Ask clients first.
+- Helpers make mistakes, most of all with numbers. You check the money files yourself.
+- This kit is not tax, legal or money advice. Ask your accountant about taxes.
 
 ## License
 
