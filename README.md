@@ -1,7 +1,9 @@
 # One Folder Team
 
 **Watch this 60-second clip - this is how it works:** [media/intro-60s.mp4](media/intro-60s.mp4)
-Rather listen? [media/intro-60s.mp3](media/intro-60s.mp3) (1 minute) or [media/setup-walkthrough.mp3](media/setup-walkthrough.mp3) (how to set up, about 3 minutes).
+Rather listen? [media/intro-60s.mp3](media/intro-60s.mp3) (1 minute) or [media/setup-walkthrough.mp3](media/setup-walkthrough.mp3) (how to set up, about 2.5 minutes).
+
+**Ready to start? Follow [START-HERE.md](START-HERE.md)** - one page, numbered steps, about 30 minutes.
 
 Hi. If you run your own show (a salon, a shop, a trade, a studio, a little business from home),
 you already do every job yourself. Free AI apps can take some of that off your plate.
@@ -69,6 +71,9 @@ Add a second app only after the first one feels useful. One good helper beats se
 
 | File | What it is |
 |---|---|
+| [START-HERE.md](START-HERE.md) | the step-by-step guide - start here |
+| [INVENTORY.md](INVENTORY.md) | a plain list of every piece in the kit |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | how to suggest a change (branch, pull request, owner merges) |
 | [SIGNUP.md](SIGNUP.md) | signing up for each app, connecting it to your folder, and why |
 | [FREE-MODELS.md](FREE-MODELS.md) | the free AI apps, what each is good for, their limits |
 | [DRIVE-LAYOUT.md](DRIVE-LAYOUT.md) | the folder tree and what goes where |
