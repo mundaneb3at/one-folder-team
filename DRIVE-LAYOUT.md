@@ -4,7 +4,7 @@ One folder. Everything lives in it. Bots read the shared files and write only in
 
 ```
 WORK-HQ/
-  START-HERE.md          <- copy of README.md, so any bot knows the rules
+  START-HERE.md          <- copy of the kit's START-HERE.md, so any bot knows the rules
   TASKS.md               <- the task board (templates/TASKS.md)
   BOOKS/
     BOOKKEEPING.md       <- monthly money sheet (templates/BOOKKEEPING.md)
