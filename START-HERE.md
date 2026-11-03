@@ -11,7 +11,10 @@ Stop after any step if that is enough for you. Nothing breaks if you stop.
 ## Part 1 - Set up (do this once)
 
 ### Step 1. Watch or listen (1 minute)
-Watch [media/intro-60s.mp4](media/intro-60s.mp4), or listen to [media/intro-60s.mp3](media/intro-60s.mp3).
+
+https://github.com/user-attachments/assets/accc37d6-397e-467d-ab08-6663e076b248
+
+Watch the clip above, or listen to [media/intro-60s.mp3](media/intro-60s.mp3). (Video file: [media/intro-60s.mp4](media/intro-60s.mp4))
 It shows the idea: one folder, a few helpers, you in charge.
 
 ### Step 2. Make your folder (3 minutes)
