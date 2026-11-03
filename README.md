@@ -1,7 +1,10 @@
 # One Folder Team
 
-**Watch this 60-second clip - this is how it works:** [media/intro-60s.mp4](media/intro-60s.mp4)
-Rather listen? [media/intro-60s.mp3](media/intro-60s.mp3) (1 minute) or [media/setup-walkthrough.mp3](media/setup-walkthrough.mp3) (how to set up, about 2.5 minutes).
+**Watch this 60-second clip — this is how it works:**
+
+https://github.com/user-attachments/assets/accc37d6-397e-467d-ab08-6663e076b248
+
+Rather listen? [media/intro-60s.mp3](media/intro-60s.mp3) (1 minute) or [media/setup-walkthrough.mp3](media/setup-walkthrough.mp3) (how to set up, about 2.5 minutes). (Video file: [media/intro-60s.mp4](media/intro-60s.mp4))
 
 **Ready to start? Follow [START-HERE.md](START-HERE.md)** - one page, numbered steps, about 30 minutes.
 
